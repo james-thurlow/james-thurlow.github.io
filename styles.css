@@ -1,21 +1,28 @@
 body{
-    background:rgba(255, 0, 0, 0.61);
+    background: #02733E;
     font-family:Arial, Helvetica, sans-serif;
 }
 
 .assignment{
 display: flex;
 padding: 10px;
+margin: 10px;
+background: #025930;
 }
 
 .assignment img {
-    width: 600px;
-    height: 750px;
-    padding: 70px;
-    background: lightblue;
+    width: 200px;
+    padding:10px;
+    background:black;
+    
 }
 
 h1{
-    color:black;
+    color: #3E403F;
     text-align:center;
+}
+
+a {
+    text-decoration:none;
+    color:black;
 }
